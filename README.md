@@ -1,5 +1,5 @@
 # SCGAN
-Tensorflow implementation of our [Pattern Recognition paper](https://www.sciencedirect.com/journal/pattern-recognition): ["Learning Image Compressed Sensing with Sub-pixel Convolutional Generative Adversarial Network".](https://www.sciencedirect.com/science/article/pii/S003132031930353X)
+Tensorflow implementation of our [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) paper: ["Learning Image Compressed Sensing with Sub-pixel Convolutional Generative Adversarial Network".](https://www.sciencedirect.com/science/article/pii/S003132031930353X)
 ## Data Sets
 You can download the datasets(Mnist,Fashion-mnist,CelebA) with:
 ```
