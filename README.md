@@ -1,8 +1,7 @@
 # SCGAN
 Tensorflow implementation of the paper["Learning Image Compressed Sensing with Sub-pixel Convolutional Generative Adversarial Network".](https://www.sciencedirect.com/science/article/pii/S003132031930353X)
 ## Data Sets
-Mnist,Fashion-mnist,CelebA
-You can download the datasets with:
+You can download the datasets(Mnist,Fashion-mnist,CelebA) with:
 ```
 $ python download.py [mnist|fmnist|celeba]
 ```
