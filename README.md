@@ -3,9 +3,9 @@ Tensorflow implementation of the paper["Learning Image Compressed Sensing with S
 ## Data Sets
 Mnist,Fashion-mnist,CelebA
 You can download the datasets with:
-'''
+```
 python download.py [mnist|fmnist|celeba]
-'''
+```
 ## Dependencise
 * Python 3.6
 * Tensorflow 1.10.0
